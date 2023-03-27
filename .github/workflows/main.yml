@@ -16,7 +16,7 @@ name: Run it on action
 
 on:
   schedule:
-    - cron: 30 7 * * *
+    - cron: 20 20 * * *
   workflow_dispatch:
 
 jobs:
